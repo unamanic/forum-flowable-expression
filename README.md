@@ -1,19 +1,19 @@
-#Flowable Expression Demo
+# Flowable Expression Demo
 
 This project shows the use of the service task's `expresion` parameter in Flowable
 
-##Execution
-###Linux/Mac
+## Execution
+### Linux/Mac
 ```
 ./gradlew bootrun
 ``` 
 
-###Windows
+### Windows
 ```
 gradlew.bat bootrun
 ```
 
-##Triggering the process
+## Triggering the process
 ```
 curl localhost:58080
 ```
